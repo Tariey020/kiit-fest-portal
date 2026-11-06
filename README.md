@@ -2,7 +2,14 @@
 
 A responsive event management web app for **KIIT Fest 2026**, styled after KIIT University's identity: vibrant KIIT green, deep emerald and subtle gold, with rounded cards and smooth motion. Students can browse every event on the festival calendar, filter and search in real time, open rich event details, register with validated forms, and keep their digital passes on their own device.
 
-**Live site:** https://event-management-app-e888d4.netlify.app
+**Live site:**🌐 GitHub Pages: https://tariey020.github.io/kiit-fest-portal/
+
+🌐 Netlify: https://tariroeventsplanning.netlify.app/
+
+🌐 GitHub Codespaces: https://improved-bassoon-jrgq57v749vwhjqp6-8000.app.github.dev/
+
+Repository
+https://github.com/Tariey020/kiit-fest-portal
 
 ## Features
 
